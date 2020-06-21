@@ -702,6 +702,7 @@ a:focus {
 .sf-menu a {
     display: block;
     position: relative;
+	color:black;
 }
 
 /* Theme Navigation Skin */
